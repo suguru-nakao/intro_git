@@ -3,3 +3,4 @@ Githubの練習を始めました。2025.0724
 git add
 git commit
 git rm
+git diffの使い方を学ぶ
